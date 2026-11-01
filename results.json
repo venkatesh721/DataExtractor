@@ -1,0 +1,52 @@
+[
+  {
+    "input_number": 1,
+    "input": "Paid ₹ 1,250 to AWS India Pvt Ltd on 12 March 2024. Invoice #INV-2024-0312. Services: cloud compute.",
+    "error": {
+      "status_code": 503,
+      "body": {
+        "detail": "Gemini is not configured. Set GEMINI_API_KEY in the environment."
+      }
+    }
+  },
+  {
+    "input_number": 2,
+    "input": "Hi team, please find attached the invoice from Zoho Corp for ₹ 4,800 (software subscription, April 2024). Reference: ZHO-88821.",
+    "error": {
+      "status_code": 503,
+      "body": {
+        "detail": "Gemini is not configured. Set GEMINI_API_KEY in the environment."
+      }
+    }
+  },
+  {
+    "input_number": 3,
+    "input": "hey can someone reimburse me for the uber last tuesday? it was like 340 rupees, went to the airport for the client meeting",
+    "error": {
+      "status_code": 503,
+      "body": {
+        "detail": "Gemini is not configured. Set GEMINI_API_KEY in the environment."
+      }
+    }
+  },
+  {
+    "input_number": 4,
+    "input": "DELHI METRO RAIL CORP Token: 0042 Fare: INR 30 Date: 29-04-2024 From: Rajiv Chowk To: Hauz Khas",
+    "error": {
+      "status_code": 503,
+      "body": {
+        "detail": "Gemini is not configured. Set GEMINI_API_KEY in the environment."
+      }
+    }
+  },
+  {
+    "input_number": 5,
+    "input": "meeting notes: discussed q2 targets, revenue up 12%, john to follow up with vendors next week",
+    "error": {
+      "status_code": 503,
+      "body": {
+        "detail": "Gemini is not configured. Set GEMINI_API_KEY in the environment."
+      }
+    }
+  }
+]
